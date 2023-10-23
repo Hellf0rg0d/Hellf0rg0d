@@ -1,5 +1,5 @@
 # Hellf0rg0d
-# Java (Swing), C++, C
+# Java,Swing(Java), C++, C
 # Open for collaboration
 ***
 # Brief about me:

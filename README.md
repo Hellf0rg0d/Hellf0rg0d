@@ -30,7 +30,7 @@ Personality:
 
 **Feel free to reach out to me if you have any questions or if you would like to discuss possible collaboration opportunities.**
 
-# MY EMAIL-ID -> nhmkar@gmail.com
+# MY EMAIL-ID -> nhmkar _AT_ gmail.com
 <!---
 Hellf0rg0d/Hellf0rg0d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

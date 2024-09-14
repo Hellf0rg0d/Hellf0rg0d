@@ -4,14 +4,14 @@
 ***
 # Brief about me:
 
-**I am a learner, but I am eager to learn and contribute. I am proficient in Java (Swing), C++, and C. I am also open to learning new technologies and languages.**
+**I am a learner, but I am eager to learn and contribute. I am proficient in Flutter,Dart,Java (Swing), C++, and C. I am also open to learning new technologies and languages.**
 
 **I am a team player and I am always willing to help others. I am also a quick learner and I am always looking for new challenges.**
 ***
 # Knowledge and skillset:
 
-# Programming languages: Java, C++, C
- **Technologies: Java Swing, object-oriented programming, data structures and algorithms**
+# Programming languages: Flutter, Dart, Java, C++, C
+ **Technologies: Flutter,Java Swing, object-oriented programming, data structures and algorithms**
  **Skills: problem-solving, debugging, coding style, teamwork**
 ***
 Personality:
